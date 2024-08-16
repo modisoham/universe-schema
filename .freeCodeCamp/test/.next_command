@@ -117,3 +117,4 @@ git init
 git remote add origin https://github.com/modisoham/universe-schema.git
 git add universal.sql
 git commit -m "Add universal.sql schema file"
+psql --username=freecodecamp --dbname=postgres
